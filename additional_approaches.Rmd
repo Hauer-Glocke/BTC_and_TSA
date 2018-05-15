@@ -1,0 +1,22 @@
+## List of interesting sources concerning Crypto Analysis
+
+1. Datacamp: Exploring the Bitcoin cryptocurrency market (https://www.datacamp.com/projects/82)
+    - It's a project for which you need to pay/have a premium subscription
+2. Datacamp: Visualizing Time Series Data in Python (https://www.datacamp.com/courses/visualizing-time-series-data-in-python?utm_source=customerio&utm_medium=email&utm_campaign=course_5226)
+    - It's a course, where the first section is for free and the subsequent four section you need to pay/have a premium subscription
+3. Youtube: Two Effective Algorithms for Time Series Forecasting (https://www.youtube.com/watch?v=VYpAodcdFfA)
+    - 15 minutes video with two approaches for forecasting
+4. Texts: 2.2 Numerical data summaries (https://www.otexts.org/fpp/2/2)
+    - Open-access textbook on data summaries with R code
+5. Texts: 2.3 Some simple forecasting methods (https://www.otexts.org/fpp/2/3)
+    - Open-access textbook on beginner approaches on TS forecasting
+6. Neelabh Pant on statsbot: A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs) - Forecasting future currency exchange rates with long short-term memory (LSTMs) (https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
+    - Explaining of the LSTM framework, which might be very interesting. No Code!
+7. Jason Brownlee on machinelearningmastery: Time Series Forecasting as Supervised Learning (https://machinelearningmastery.com/time-series-forecasting-supervised-learning/)
+    - Explains how to approach a TS problem with supervised learning methods. No Code!
+8. Justing Brandenburg on MAPR: Applying Deep Learning to Time Series Forecasting with TensorFlow (https://mapr.com/blog/deep-learning-tensorflow/)
+    - Explanation of the approach and RNN framwork with Python Code!!!
+9. statsoft: How To Identify Patterns in Time Series Data: Time Series Analysis (http://www.statsoft.com/Textbook/Time-Series-Analysis)
+    - Textbook and Links on TSA
+10. NIST SEMATECH: 6.4. Introduction to Time Series Analysis (https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
+    - Handbook about mathematical basics on TSA
